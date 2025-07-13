@@ -1,0 +1,446 @@
+{
+  "New item": [
+    {
+      "codigo": "DERE001",
+      "nombre": "INTRODUCCION AL DERECHO",
+      "nivel": 1,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE002",
+      "nombre": "HISTORIA DEL DERECHO",
+      "nivel": 1,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE003",
+      "nombre": "INSTITUCIONES POLITICAS Y DERECHO CONSTITUCIONAL ORGANICO",
+      "nivel": 1,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE004",
+      "nombre": "DERECHO ROMANO",
+      "nivel": 1,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "CEGHC11",
+      "nombre": "HABILIDADES COMUNICATIVAS",
+      "nivel": 1,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE005",
+      "nombre": "NOCIONES DE ECONOMIA",
+      "nivel": 2,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE006",
+      "nombre": "TEORIA DE LOS DERECHOS Y ACCIONES CONSTITUCIONALES",
+      "nivel": 2,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE007",
+      "nombre": "FUNDAMENTOS DEL DERECHO PRIVADO",
+      "nivel": 2,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE008",
+      "nombre": "INTERPRETACION Y ARGUMENTACION",
+      "nivel": 2,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "ING119",
+      "nombre": "INGLES 1",
+      "nivel": 2,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE009",
+      "nombre": "DERECHOS FUNDAMENTALES",
+      "nivel": 3,
+      "prerrequisitos": [
+        "DERE006"
+      ]
+    },
+    {
+      "codigo": "DERE010",
+      "nombre": "NEGOCIO JURIDICO Y TEORIA GENERAL DE LAS OBLIGACIONES",
+      "nivel": 3,
+      "prerrequisitos": [
+        "DERE007"
+      ]
+    },
+    {
+      "codigo": "DERE011",
+      "nombre": "DERECHO PROCESAL PARTE GENERAL",
+      "nivel": 3,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "CEGPC13",
+      "nombre": "PENSAMIENTO CRITICO",
+      "nivel": 3,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "ING129",
+      "nombre": "INGLES 2",
+      "nivel": 3,
+      "prerrequisitos": [
+        "ING119"
+      ]
+    },
+    {
+      "codigo": "DERE012",
+      "nombre": "FUNDAMENTOS DEL DERECHO COMERCIAL Y TEORIA GENERAL DE LOS TITULOS DE CREDITO",
+      "nivel": 4,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE013",
+      "nombre": "DERECHO INTERNACIONAL PUBLICO",
+      "nivel": 4,
+      "prerrequisitos": [
+        "DERE003"
+      ]
+    },
+    {
+      "codigo": "DERE014",
+      "nombre": "DERECHO DE LOS BIENES",
+      "nivel": 4,
+      "prerrequisitos": [
+        "DERE010"
+      ]
+    },
+    {
+      "codigo": "DERE015",
+      "nombre": "NORMAS COMUNES A TODO PROCEDIMIENTO",
+      "nivel": 4,
+      "prerrequisitos": [
+        "DERE011"
+      ]
+    },
+    {
+      "codigo": "ING239",
+      "nombre": "INGLES 3",
+      "nivel": 4,
+      "prerrequisitos": [
+        "ING129"
+      ]
+    },
+    {
+      "codigo": "DERE016",
+      "nombre": "PRINCIPIOS FUNDAMENTALES DEL DERECHO PENAL Y DE LA PENA",
+      "nivel": 5,
+      "prerrequisitos": [
+        "DERE009"
+      ]
+    },
+    {
+      "codigo": "DERE017",
+      "nombre": "DERECHO ADMINISTRATIVO 1",
+      "nivel": 5,
+      "prerrequisitos": [
+        "DERE003"
+      ]
+    },
+    {
+      "codigo": "DERE018",
+      "nombre": "CUMPLIMIENTO E INCUMPLIMIENTO DE LAS OBLIGACIONES CONTRACTUALES",
+      "nivel": 5,
+      "prerrequisitos": [
+        "DERE014"
+      ]
+    },
+    {
+      "codigo": "DERE019",
+      "nombre": "PROCEDIMIENTOS DECLARATIVOS",
+      "nivel": 5,
+      "prerrequisitos": [
+        "DERE015"
+      ]
+    },
+    {
+      "codigo": "DERE020",
+      "nombre": "SEMINARIO DE INTEGRACION",
+      "nivel": 5,
+      "prerrequisitos": [
+        "CEGPC13",
+        "DERE001",
+        "DERE002",
+        "DERE004",
+        "DERE005",
+        "DERE008",
+        "DERE009",
+        "DERE012",
+        "DERE013",
+        "DERE014",
+        "DERE015"
+      ]
+    },
+    {
+      "codigo": "ING249",
+      "nombre": "INGLES 4",
+      "nivel": 5,
+      "prerrequisitos": [
+        "ING239"
+      ]
+    },
+    {
+      "codigo": "DERE021",
+      "nombre": "DERECHO SOCIETARIO",
+      "nivel": 6,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE022",
+      "nombre": "PARTE GENERAL DEL DERECHO PENAL",
+      "nivel": 6,
+      "prerrequisitos": [
+        "DERE016"
+      ]
+    },
+    {
+      "codigo": "DERE023",
+      "nombre": "DERECHO ADMINISTRATIVO 2",
+      "nivel": 6,
+      "prerrequisitos": [
+        "DERE017"
+      ]
+    },
+    {
+      "codigo": "DERE024",
+      "nombre": "RESPONSABILIDAD EXTRACONTRACTUAL",
+      "nivel": 6,
+      "prerrequisitos": [
+        "DERE018"
+      ]
+    },
+    {
+      "codigo": "DERE025",
+      "nombre": "DERECHO LABORAL",
+      "nivel": 6,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE026",
+      "nombre": "EJECUCION Y RECURSOS",
+      "nivel": 6,
+      "prerrequisitos": [
+        "DERE019"
+      ]
+    },
+    {
+      "codigo": "DERE027",
+      "nombre": "DERECHO TRIBUTARIO",
+      "nivel": 7,
+      "prerrequisitos": [
+        "DERE021"
+      ]
+    },
+    {
+      "codigo": "DERE028",
+      "nombre": "PARTE ESPECIAL DEL DERECHO PENAL",
+      "nivel": 7,
+      "prerrequisitos": [
+        "DERE022"
+      ]
+    },
+    {
+      "codigo": "DERE029",
+      "nombre": "CONTRATOS",
+      "nivel": 7,
+      "prerrequisitos": [
+        "DERE018"
+      ]
+    },
+    {
+      "codigo": "DERE030",
+      "nombre": "DESTREZAS DE ASESORIA LEGAL",
+      "nivel": 7,
+      "prerrequisitos": [
+        "DERE018",
+        "DERE021",
+        "DERE023"
+      ]
+    },
+    {
+      "codigo": "DERE031",
+      "nombre": "DERECHO PROCESAL PENAL",
+      "nivel": 7,
+      "prerrequisitos": [
+        "DERE022",
+        "DERE026"
+      ]
+    },
+    {
+      "codigo": "DERE032",
+      "nombre": "DERECHO INNOVACION Y TECNOLOGIA",
+      "nivel": 7,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE033",
+      "nombre": "LITIGACION ORAL",
+      "nivel": 8,
+      "prerrequisitos": [
+        "DERE030",
+        "DERE031"
+      ]
+    },
+    {
+      "codigo": "DERE034",
+      "nombre": "ETICA PROFESIONAL",
+      "nivel": 8,
+      "prerrequisitos": []
+    },
+    {
+      "codigo": "DERE035",
+      "nombre": "DERECHO DE FAMILIA",
+      "nivel": 8,
+      "prerrequisitos": [
+        "DERE029"
+      ]
+    },
+    {
+      "codigo": "DERE036",
+      "nombre": "REDACCION FORENSE",
+      "nivel": 8,
+      "prerrequisitos": [
+        "DERE026",
+        "DERE029",
+        "DERE030"
+      ],
+      "()": [
+        {
+          "codigo": "DERE037",
+          "nombre": "NEGOCIACION Y MEDIACION",
+          "nivel": 8,
+          "prerrequisitos": [
+            "DERE029",
+            "DERE030"
+          ]
+        },
+        {
+          "codigo": "DERE038",
+          "nombre": "SEMINARIO DE DOCTRINA Y JURISPRUDENCIA",
+          "nivel": 8,
+          "prerrequisitos": [
+            "CEGCH11",
+            "ING249",
+            "DERE020",
+            "DERE028",
+            "DERE030",
+            "DERE024",
+            "DERE025",
+            "DERE031",
+            "DERE027",
+            "DERE029",
+            "DERE032"
+          ]
+        },
+        {
+          "codigo": "DERE039",
+          "nombre": "ELECTIVO 1",
+          "nivel": 9,
+          "prerrequisitos": [
+            "DERE036",
+            "DERE037"
+          ]
+        },
+        {
+          "codigo": "DERE040",
+          "nombre": "SEMINARIO DE INVESTIGACION",
+          "nivel": 9,
+          "prerrequisitos": [
+            "DERE038"
+          ]
+        },
+        {
+          "codigo": "DERE041",
+          "nombre": "DERECHO SUSERIO",
+          "nivel": 9,
+          "prerrequisitos": [
+            "DERE035"
+          ]
+        },
+        {
+          "codigo": "DERE042",
+          "nombre": "CONSULTORIO JURIDICO 1",
+          "nivel": 9,
+          "prerrequisitos": [
+            "DERE033",
+            "DERE034",
+            "DERE035",
+            "DERE036",
+            "DERE037",
+            "DERE038"
+          ]
+        },
+        {
+          "codigo": "DERE043",
+          "nombre": "DERECHO GENERO E INCLUSION",
+          "nivel": 9,
+          "prerrequisitos": [
+            "DERE009",
+            "DERE028",
+            "DERE035"
+          ]
+        },
+        {
+          "codigo": "DERE044",
+          "nombre": "ELECTIVO 2",
+          "nivel": 10,
+          "prerrequisitos": [
+            "DERE039"
+          ]
+        },
+        {
+          "codigo": "DERE045",
+          "nombre": "ELECTIVO 3",
+          "nivel": 10,
+          "prerrequisitos": [
+            "DERE039"
+          ]
+        },
+        {
+          "codigo": "DERE046",
+          "nombre": "ELECTIVO 4",
+          "nivel": 10,
+          "prerrequisitos": [
+            "DERE039"
+          ]
+        },
+        {
+          "codigo": "DERE047",
+          "nombre": "CONSULTORIO JURIDICO 2",
+          "nivel": 10,
+          "prerrequisitos": [
+            "DERE041",
+            "DERE042",
+            "DERE043"
+          ]
+        },
+        {
+          "codigo": "DERE048",
+          "nombre": "ACTIVIDAD FINAL DE GRADUACION",
+          "nivel": 10,
+          "prerrequisitos": [
+            "DERE038",
+            "DERE039",
+            "DERE040",
+            "DERE041",
+            "DERE042",
+            "DERE043"
+          ]
+        }
+      ]
+    }
+  ]
+}
